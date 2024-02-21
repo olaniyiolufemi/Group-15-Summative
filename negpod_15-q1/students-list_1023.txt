@@ -1,7 +1,4 @@
 o.olufemi@alustudent.com,23,G-15-1
 a.wambugu@alustudent.com,24,G-15-2
-<<<<<<< HEAD
 e.dania@alustudent.com,17,792957762
-=======
 n.liberiste@alustudent.com,30,G-15-3
->>>>>>> 09f64289b50de6fa01548d793ccdab321632a5d9
