@@ -2,3 +2,4 @@ o.olufemi@alustudent.com,23,G-15-1
 a.wambugu@alustudent.com,24,G-15-2
 e.dania@alustudent.com,17,792957762
 n.liberiste@alustudent.com,30,G-15-3
+j.terry@alustudent.com,26,G-15-5
